@@ -23,5 +23,3 @@ A Python-based GUI application for downloading audio and video from YouTube and 
   ```bash
   pip install yt-dlp
   pip install requests
-  פןפ
-  פ
