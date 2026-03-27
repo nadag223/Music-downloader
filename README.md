@@ -106,8 +106,14 @@ Pull requests are welcome! Please open an issue first to discuss major changes.
 
 ---
 
-```
+## ⚠️ Legal Disclaimer
+
+This project is a graphical interface built on top of third-party tools such as `yt-dlp` and `ffmpeg`.
+
+The developer does not host, provide, or distribute any media content, and is not responsible for how this software is used.
+
+Users are solely responsible for ensuring that their use of this tool complies with applicable laws, copyright regulations, and the Terms of Service of any platforms they interact with.
+
+This tool is intended for personal use only, such as downloading content you own or have explicit permission to access.
 
 ---
-
-> **Disclaimer:** This tool is intended for downloading content you own or have permission to download. Please respect copyright law and the Terms of Service of any platform you use it with.
